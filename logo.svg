@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 210">
+<rect width="700" height="210" rx="28" fill="#11110f"/>
+<g fill="none" stroke="#d8b77b" stroke-width="3">
+<circle cx="105" cy="105" r="67"/><circle cx="105" cy="105" r="57"/>
+<path d="M75 130c18-14 42-14 60 0M78 90c18 10 36 10 54 0"/>
+<path d="M105 44v122"/>
+</g>
+<text x="195" y="106" fill="#f5f0e7" font-family="Georgia,serif" font-size="55" letter-spacing="8">ATMOSPHERE</text>
+<text x="199" y="143" fill="#d8b77b" font-family="Arial,sans-serif" font-size="15" letter-spacing="6">КАФЕ • КРАСНОАРМЕЙСК</text>
+</svg>
